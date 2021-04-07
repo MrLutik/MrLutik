@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrLutik
-- 👀 I’m interested in Python, SQLAlchemy, Django, ecommerce, C++, Rust
+- 👀 I’m interested in Python, SQLAlchemy, Django, ecommerce, C++, Rust, PolkaDot
 - 🌱 I’m currently learning pretty much everything
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me yaievgeniy@gmail.com
