@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MrLutik
-- 👀 I’m interested in Python, SQLAlchemy, Django, ecommerce, C++, Rust, PolkaDot
-- 🌱 I’m currently learning pretty much everything
-- 💞️ I’m looking to collaborate on whatever
-- 📫 How to reach me yaievgeniy@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrlutik&show_icons=true&theme=dracula)
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlutik&langs_count=8&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 MrLutik/MrLutik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
